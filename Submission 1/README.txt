@@ -1,6 +1,6 @@
-Youtube Unlisted Video Link: https://www.youtube.com/playlist?list=PLwNCQRgfv_8LIBJUa4-WFfbVOQaC5W4Lx
+CSE474 playlist : https://www.youtube.com/playlist?list=PLwNCQRgfv_8LIBJUa4-WFfbVOQaC5W4Lx
 
-
+video link : https://youtu.be/l9w7wz_0UkI?si=dKpM72SUvv3ax6M9
 
 Paper Title: Urban flood modeling using deep-learning approaches in Seoul, South Korea
 
