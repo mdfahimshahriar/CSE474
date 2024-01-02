@@ -1,5 +1,5 @@
-Youtube Unlisted Video Link: https://www.youtube.com/playlist?list=PLwNCQRgfv_8LIBJUa4-WFfbVOQaC5W4Lx
-
+CSE474 playlist: https://www.youtube.com/playlist?list=PLwNCQRgfv_8LIBJUa4-WFfbVOQaC5W4Lx
+Video link : https://youtu.be/l9w7wz_0UkI?si=nrRMUV-xzfo23nWf
 
 
 Paper Title: Emulation of wildland fire spread simulation using deep learning
